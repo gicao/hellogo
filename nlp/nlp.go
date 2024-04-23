@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/353solutions/nlp/stemmer"
+	"github.com/gicao/nlp/stemmer"
 )
 
 var (
