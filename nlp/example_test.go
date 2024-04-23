@@ -3,7 +3,7 @@ package nlp_test
 import (
 	"fmt"
 
-	"github.com/353solutions/nlp"
+	"github.com/gicao/nlp"
 )
 
 func ExampleTokenize() {
